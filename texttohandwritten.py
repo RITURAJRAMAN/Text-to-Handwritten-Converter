@@ -3,7 +3,7 @@ import cv2
 from tkinter import *
 
 window = Tk()
-window.title("Future Keys")
+window.title("Text to Handwritten")
 window.geometry('500x400')
 window.configure(bg='black')
 Label(window, text="Text to Handwritten\nConverter", font="algerian 22 bold", bg='OrangeRed1').pack()
